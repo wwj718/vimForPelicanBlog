@@ -1,7 +1,7 @@
 ###使用vim访问我的博客
 
 ###使用
-*  pip -r requirements.txt
+*  pip install -r requirements.txt
 *  使用Vundle安装插件即可
 *  :call MyBlog('all')
 
