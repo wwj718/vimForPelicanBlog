@@ -10,3 +10,5 @@
 *  把它扩展一个markdown工具，浏览网页的markdown版
 *  使用python文本分析，高亮关键字
 *  浏览基于pelican的所有博客，在.vimrc中写下博客名字
+  *  只要.vimrc里添加，诸如：let g:BLOGURL = 'htt://ww718.github.com'
+  * 获取变量vim.eval("g:BLOGURL")
