@@ -10,6 +10,9 @@
 *  编辑~/.vimrc 设置你的博客url,添加如下内容：let g:BLOGURL = 'http://YOUR_BLOG_URL:'
 *  进入vim, :call Blog('all')
 
+##新增功能
+* 也可以直接访问网址，将其以markdown格式展示在markdown里: call Url("www.baidu.com")
+
 ##特性
 将博客内容解析为md格式，显示在vim中，方便直接保存
 
