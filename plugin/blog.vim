@@ -27,8 +27,8 @@ try:
     vim.current.buffer.append(36*"="+u'\u4f7f\u7528\u8bf4\u660e'+36*"=")
     vim.current.buffer.append("@author:wuwenjie")
     vim.current.buffer.append("@Email:wuwenjie718@gmail.com")
-    vim.current.buffer.append(u"\u8f93\u5165 :call MyBlog('all') \u83b7\u53d6\u6587\u7ae0\u5217\u8868")
-    vim.current.buffer.append(u"\u8f93\u5165 :call MyBlog('\u6587\u7ae0\u7f16\u53f7') \u83b7\u53d6\u6587\u7ae0\u5185\u5bb9\uff0c\u5982 :call MyBlog('3')"
+    vim.current.buffer.append(u"\u8f93\u5165 :call Blog('all') \u83b7\u53d6\u6587\u7ae0\u5217\u8868")
+    vim.current.buffer.append(u"\u8f93\u5165 :call Blog('\u6587\u7ae0\u7f16\u53f7') \u83b7\u53d6\u6587\u7ae0\u5185\u5bb9\uff0c\u5982 :call Blog('3')"
     )
     vim.current.buffer.append(80*"=")
 
